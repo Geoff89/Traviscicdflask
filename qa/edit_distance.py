@@ -1,6 +1,6 @@
 import pandas as pd
 from parsedata import generate_pairs
-from nltk.metrics import edit_distance
+from nltk.metrics import  edit_distance
 import argparse
 
 
